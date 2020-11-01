@@ -1,20 +1,21 @@
-# pnu-3991-AR
+
+# PNU_3991_AR
 ----------
-### فاطمه هاشم زاده
+### مژگان متقی ثابت 
 
-https://fatemehashemzade.github.io/fatemeh78/
-https://quera.ir/profile/fatemehhashemzadeh7810
----https://github.com/fatemehashemzade
-https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
-
-
+---
+- [حساب گیت هاب]https://mozhganmottaghi.github.io/mozhgan.mottaghi/
+- [آدرس رزومه]https://mozhganmottaghi.github.io/mozhgan.mottaghi/
+- [sop]https://github.com/mozhganmottaghi/SOP
 
 
 -------------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
-[طراحی واسط کاربری] https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin
+
+[1115157_01 & 02 طراحی واسط کاربری ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+
 [1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
 
 -----------------
@@ -30,6 +31,7 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
     <th>روز</th>
   </tr>
   <tr>
+    <th ></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -43,7 +45,6 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
     <th>یک شنبه</th>
   </tr>
    <tr>
-     
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
      <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
     <th ></th>   
@@ -62,10 +63,14 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
     <th ></th>
     <th></th>
     <th></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">الگوريتم هاي پيشرفته</a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-    <th>پنج شنبه</th
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مديريت پروژه هاي نرم افزاري</a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
+    <th>پنج شنبه</th>
   </tr>
 </table>
