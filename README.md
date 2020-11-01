@@ -1,13 +1,12 @@
 
 # PNU_3991_AR
 ----------
-### مژگان متقی ثابت 
+### فاطمه هاشم زاده 
 
 ---
-- [حساب گیت هاب]https://mozhganmottaghi.github.io/mozhgan.mottaghi/
-- [آدرس رزومه]https://mozhganmottaghi.github.io/mozhgan.mottaghi/
-- [sop]https://github.com/mozhganmottaghi/SOP
-
+- [حساب گیت هاب]https://github.com/fatemehashemzade
+- [آدرس رزومه]https://fatemehashemzade.github.io/fatemeh78/
+- [sop]https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
 
 -------------------
 ## Winter Semester Courses 1399/2020
