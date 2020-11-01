@@ -1,19 +1,20 @@
-# PNU_3991_AR
+# pnu-3991-AR
 ----------
 ### فاطمه هاشم زاده
 
----
-- [حساب گیت هاب
-
 https://fatemehashemzade.github.io/fatemeh78/
-https://github.com/fatemehashemzade
+https://quera.ir/profile/fatemehhashemzadeh7810
+---https://github.com/fatemehashemzade
 https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
----https://quera.ir/profile/fatemehhashemzadeh7810
----------------
+
+
+
+
+-------------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
-
+[طراحی واسط کاربری] https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin
 [1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
 
 -----------------
@@ -29,7 +30,6 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
     <th>روز</th>
   </tr>
   <tr>
-    <th ></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -66,6 +66,6 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
   </tr>
    <tr>
     <th ></th>
-    <th>پنج شنبه</th>
+    <th>پنج شنبه</th
   </tr>
 </table>
