@@ -31,9 +31,6 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
     <th>روز</th>
   </tr>
   <tr>
-    <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظريه زبانهاوماشين ها 02-1115157</a></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -71,10 +68,6 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مديريت پروژه هاي نرم افزاري</a></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
-    <th>پنج شنبه</th>
+    <th>پنج شنبه</th
   </tr>
 </table>
