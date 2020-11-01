@@ -1,17 +1,15 @@
-# pnu-3991-AR
 # PNU_3991_AR
 ----------
 ### فاطمه هاشم زاده
 
+---
+- [حساب گیت هاب
+
 https://fatemehashemzade.github.io/fatemeh78/
-https://quera.ir/profile/fatemehhashemzadeh7810
----https://github.com/fatemehashemzade
+https://github.com/fatemehashemzade
 https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
-
-
-
-
--------------------
+---https://quera.ir/profile/fatemehhashemzadeh7810
+---------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
@@ -31,6 +29,7 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
     <th>روز</th>
   </tr>
   <tr>
+    <th ></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -63,11 +62,10 @@ https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md
     <th ></th>
     <th></th>
     <th></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">الگوريتم هاي پيشرفته</a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-    <th>پنج شنبه</th
+    <th>پنج شنبه</th>
   </tr>
 </table>
