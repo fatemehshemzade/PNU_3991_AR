@@ -1,7 +1,7 @@
 
 # PNU_3991_AR
 ----------
-### فاطمه هاشم زاده 
+### فاطمه هاشم زاده
 
 ---
 - [حساب گیت هاب]https://github.com/fatemehashemzade
@@ -13,7 +13,7 @@
 
 ## دروس کارشناسی
 
-[1115157_01 & 02 طراحی واسط کاربری ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+[1115157_01 & 02 طراحی واسط کاربری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 
 [1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
 
@@ -31,6 +31,8 @@
   </tr>
   <tr>
     <th ></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر </a></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction" >تعامل انسان و کامپیوتر</a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -44,6 +46,8 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods" >روش پژوهش و ارائه02-1322010</a> </th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه01-1322010</a></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
      <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
     <th ></th>   
@@ -62,14 +66,15 @@
     <th ></th>
     <th></th>
     <th></th>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کاربری </a></th>
-    <th>دوشنبه</th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">الگوريتم هاي پيشرفته</a></th>
+    <th>چهارشنبه</th>
   </tr>
    <tr>
-    <th></th>
-     <th ><a  href=" https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction ">تعامل انسان و کامیپوتر</a></th>
-     <th ><a  href="  https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کامپیوتر</a></th>
-    <th><a href "https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction ">تعامل انسان و کامپیوتر</a></th>
+    <th ></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر </a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کاربری </a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
