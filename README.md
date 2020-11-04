@@ -46,10 +46,10 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin " >طراحی واسط کاربری  </a> </th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction"> تعامل انسان و کامپیوتر </a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
-     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
+     <th ><a href="" >طراحی واسط کاربری  </a> </th>
+     <th ><a  href=""> تعامل انسان و کامپیوتر </a></th>
+     <th><a  href="">طراحي واسط كاربر</a></th>
+     <th><a href="">تعامل انسان و كامپيوتر</a></th>
     <th ></th>   
     <th>دوشنبه</th>
   </tr>
@@ -66,15 +66,15 @@
     <th ></th>
     <th></th>
     <th></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کاربری</a></th>
+     <th ><a  href="">طراحی واسط کاربری</a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر </a></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کاربری</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر</a></th>
-    <th><a href=" https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر</a></th>
+     <th ><a  href=">تعامل انسان و کامپیوتر </a></th>
+     <th ><a  href="">طراحی واسط کاربری</a></th>
+     <th><a  href="">تعامل انسان و کامپیوتر</a></th>
+    <th><a href="">تعامل انسان و کامپیوتر</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
