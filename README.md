@@ -15,7 +15,7 @@
 
 [1115157_01 & 02 طراحی واسط کاربری](https://github.com/fatemehshemzade/pnu-3991-AR/tree/Fatemeh/UserInterfaceDesgin)
 
-[1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
+[1322108_013 تعامل انسان کامپیوتر](https://github.com/fatemehshemzade/pnu-3991-AR/tree/Fatemeh/HumanComputerInteraction)
 
 -----------------
 
