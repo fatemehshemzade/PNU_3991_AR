@@ -13,11 +13,11 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه]()
-- [خلاصه ارزیابی بخش عمومی]()
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/fatemehshemzade/PNU_3991_AR/blob/Fatemeh/_General/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/fatemehshemzade/PNU_3991_AR/blob/Fatemeh/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  کارشناسی
-- [خلاصه ارزیابی درس طراحی واست کاربر_]()
+- [خلاصه ارزیابی درس طراحی واست کاربر_](https://github.com/fatemehshemzade/PNU_3991_AR/blob/Fatemeh/UserInterfaceDesgin/XX_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 
 --------------------
 ## Winter Semester Courses 1399/2020
