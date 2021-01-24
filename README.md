@@ -9,6 +9,17 @@
 - [sop](https://github.com/fatemehshemzade/SOP/edit/gh-pages/index.md)
 - [javascript](https://github.com/fatemehshemzade/pnu-3991-AR/blob/Fatemeh/WhatsApp%20Image%202020-11-20%20at%2020.38.45.jpeg)
 -------------------
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه]()
+- [خلاصه ارزیابی بخش عمومی]()
+
+##  کارشناسی
+- [خلاصه ارزیابی درس طراحی واست کاربر_]()
+
+--------------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
